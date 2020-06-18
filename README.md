@@ -17,6 +17,8 @@ Keras is an open-source neural-network library written in Python. It is capable 
 <p>
   <h4>About the Model Used</h4><br>
   The Model used is Inspired by Goodfellow, I.J., et.al. (2013). Challenged in representation learning: A report of three machine learning contests. Neural Networks, 64, 59-63. <a href="doi:10.1016/j.neunet.2014.09.005">doi:10.1016/j.neunet.2014.09.005</a>
+  <br>
+  <img src="https://github.com/itsvivekghosh/facial_expression_Tensorflow_from_Scratch/blob/master/model.png">
 </p><br>
 <p>
   <h4>Working:</h4>
@@ -29,8 +31,8 @@ Keras is an open-source neural-network library written in Python. It is capable 
   <h3>About this Project:</h3><br>
   This project is an  Open-Source Project provided by Coursera Project Network<br>
   - About the Author:<br>
-    - @VivekGhosh
-    - GitHub: https://github.com/itsvivekghosh
-    - InstaGram: https://www.instagram.com/vvivekghosh/
-    - LinkedIn: https://www.likedin.com/in/itsvivekghosh
+    - @VivekGhosh <br>
+    - GitHub: https://github.com/itsvivekghosh <br>
+    - InstaGram: https://www.instagram.com/vvivekghosh/ <br>
+    - LinkedIn: https://www.likedin.com/in/itsvivekghosh <br>
 </p>
